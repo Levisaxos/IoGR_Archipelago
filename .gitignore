@@ -40,3 +40,5 @@ iogr.spec
 pip
 logs/app.log
 rompath.txt
+apworld/iogr/iogr/data
+apworld/iogr/iogr/models
